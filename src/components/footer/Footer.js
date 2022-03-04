@@ -3,14 +3,15 @@ import './Footer.css'
 
 function Footer(props) {
   return (
-    // <div className='footer'>
-    //   <h2>ICT ACADEMY KERALA</h2>
-    //   <p>G1,Ground Floor, Thejaswini Building,</p>
-    //   <p>Technopark, Thiruvananthapuram,</p>
-    //   <p>Kerala, India.</p>
-    //   <p>Mobile: 7594051437</p>
-    // </div>
-  <div className='footer'>
+    <div className='text-center p-3' style={{backgroundColor:'grey'}}>
+      <h5>ICT ACADEMY HQ</h5>
+      <p>L-9, Thejaswini Building,Technopark,</p>
+      <p> Thiruvananthapuram,Kerala,India.</p>
+       <p>Mobile: 7594051437</p>
+       © 2020 Copyright :
+        <a className='text-dark' href="https://ictacademy.com/">@ictacademy.com</a>
+     </div>
+  /*<div className='footer'>
   
     
     <a href="#" className="fa fa-facebook-square"></a>
@@ -37,9 +38,9 @@ function Footer(props) {
        <p>Nellikode PO, Kozhikode, Kerala, India.</p>
        <p>Mobile: 7594051437</p>
       </div>
-    </div>
+    </div>*/
        
-  </div>
+  
   );
 }
 

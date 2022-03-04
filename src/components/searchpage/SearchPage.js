@@ -4,6 +4,7 @@ import { Box, Paper, Table, TableCell, TableContainer, TableHead, TableRow, Text
 import List from './List';
 import { useState } from 'react';
 import './SearchPage.css';
+import Footer from '../footer/Footer';
 
 export default function SearchPage() {
    const [inputText, setInputText] =useState("");
@@ -55,6 +56,7 @@ autoComplete="off"
     </Table>
     </TableContainer>
   </div>
+  <Footer />
     </div>
    );
 }

@@ -3,6 +3,7 @@ import employeeupdate from './Employeedb';
 import './EmployeeUpdate.css';
 import EmployeeUpdateform from './EmployeeUpdateform';
 import {Link} from 'react-router-dom';
+//import Footer from '../footer/Footer';
 
 function EmployeeUpdate() {
   return (
@@ -28,6 +29,7 @@ function EmployeeUpdate() {
           
           </>
       ))}
+        
         </div>
   )
 }
