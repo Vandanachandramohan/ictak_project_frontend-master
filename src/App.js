@@ -14,6 +14,8 @@ import EmployeeUpdate from './components/employee/EmployeeUpdate';
 import EmployeeUpdateform from './components/employee/EmployeeUpdateform';
 import StudentProfile from "./components/student/StudentProfile";
 import SimpleContainer from "./components/searchpage/SearchPage";
+import StdUpdateform from "./components/student-update/StdUpdateform";
+import StudentUpdate from "./components/student-update/StudentUpdate";
 
 function App() {
   return (
@@ -32,6 +34,8 @@ function App() {
           <Route path="/emp-update" element={<EmployeeUpdate />} />
           <Route path="/emp-updateform/:name" element={<EmployeeUpdateform />} />
           <Route path="/search" element={<SimpleContainer />} />
+          <Route path="/stud-update" element={<StudentUpdate />} /> 
+          <Route path="/stud-updateform/:name" element={<StdUpdateform />} /> 
          
         </Routes>
         
