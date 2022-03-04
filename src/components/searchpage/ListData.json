@@ -1,0 +1,8 @@
+[
+    {"id":"1","name":"Oshina", "qualification":"B.Tech", "district":"kollam", "state":"kerala", "passout":2018,"status":"student","course":"MERN Stack Development","mark":66},
+    {"id":"2","name":"Job P A", "qualification":"diploma", "district":"palakkad", "state":"kerala", "passout":2021,"status":"student","course":"MERN Stack Development","mark":56},
+    {"id":"3","name":"Sandeep", "qualification":"B.Tech", "district":"trivandrum", "state":"kerala", "passout":2015,"status":"student","course":"Flutter","mark":99},
+    {"id":"4","name":"Devika", "qualification":"MCA", "district":"Pathanamthitta", "state":"Kerala", "passout":2014,"status":"employee","course":"Flutter","mark":65},
+    {"id":"5","name":"DINESH", "qualification":"MSc", "district":"THRISSUR", "state":"KERALA", "passout":2008,"status":"employee","course":"MEAN","mark":54},
+    {"id":"6","name":"Sajin J", "qualification":"B.Tech", "district":"Palakkadu", "state":"kerala", "passout":2015,"status":"student","course":"Flutter","mark":75}
+]

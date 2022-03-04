@@ -1,0 +1,74 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+/* body{
+  background-image: url('https://www.teahub.io/photos/full/88-882598_web-design-blue-web-design-background-pattern.jpg');
+} */
+.homeimage{
+  margin-right:0px;
+  width: 100%;
+  margin-top: -6%;
+  height: 80vh;
+  /* margin-right: 20px; */
+}
+.text-on-image {
+  margin: 10px;
+  margin-top: 7%;
+  color: rgb(255, 255, 255);
+  font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+  font-size: xx-large;
+  
+}
+.header{
+margin-top: 1%;
+}
+.para{
+  margin-top:8%;
+  margin-left: 2px;
+  font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+  font-size:large;
+  color: white;
+}
+
+
+.title1{
+  font-size: 50px;
+  font-weight: bold;
+  color:rgb(47, 67, 247);
+position: relative;
+margin-top: -34%;
+}
+.title2{
+  font-weight: bold;
+  color:rgb(214, 15, 114);
+  position:relative;
+}
+.heading2{
+  font-weight: bold;
+  font-size: 30px;
+  margin-left: 80px;
+  margin-top: 20%;
+  text-align: center;
+  color: black;
+}
+.courseimg{
+  margin-top: 10%;
+height: 250px;
+width: 350px;
+}
+.coursehead{
+  font-size: 20px;
+text-align: center;
+}
+.coursepara{
+color: black;
+text-align: center;
+}
+.bttn{
+  margin-top:-10px ;
+  background-color: dodgerblue;
+  padding: 5px;
+  color: rgb(36, 82, 6);
+  margin-left: 590px;
+}
